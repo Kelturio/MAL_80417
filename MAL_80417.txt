@@ -1,0 +1,65 @@
+﻿easySoft-Pro V6.96	MAL_80417.e60
+ESOPK 1.01	03.09.2019  08:43:00
+NET-ID	Operand	Deutsch
+0	A01	Temp
+0	A02	Vacuum
+0	C01	Durchläufe
+0	D01	IA LS
+0	D02	Not Aus
+0	D03	Störung
+0	D04	Störung
+0	D05	Störung
+0	D06	Störung
+0	D07	Störung
+0	I01	Not Aus quittiert
+0	I02	Überstrom Hubzylinder Kessel
+0	I03	Überstrom Mischermotor
+0	I04	Überstrom Vacuumpumpe
+0	I05	Überstrom Kühlaggregat
+0	I06	Hubzylinder Kessel Oben
+0	I07	Hubzylinder Kessel Unten
+0	I08	Schüsseldeckel geschlossen
+0	I10	Beatmungsventil öffnen
+0	LS01	Temperatur
+0	LS02	Vacuum
+0	M01	Betrieb
+0	M02	Reset
+0	M03	Störung Überstrom
+0	M04	Störung
+0	M05	Programm aktiv
+0	M06	HM Mischermotor
+0	M07	Keine Störung oder Not Aus
+0	M08	HM Hubzylinder
+0	M09	HM Störung Vacuumpumpe
+0	M10	P01-Taste
+0	M11	P02-Taste
+0	M12	P03-Taste
+0	M13	P04-Taste
+0	M14	Vacuumpumpe
+0	M15	Fertig
+0	M16	Fertig 2
+0	Q01	Mischermotor
+0	Q02	Vacuumpumpe
+0	Q03	Kühlaggregat
+0	Q04	Hubzylinder Schüssel aufwärts
+0	Q05	Hubzylinder Schüssel abwärts
+0	Q06	Reserve
+0	Q07	Reserve
+0	Q08	Störung
+0	R01	Programm 1 Schinken
+0	R02	Programm 2 Geflügel
+0	R03	Programm Stop
+0	R04	Programm Start
+0	R05	Hubzylinder Schüssel aufwärts
+0	R06	Hubzylinder Schüsel abwärts
+0	S01	Beatmungsventil
+0	S02	Vacuumventil
+0	S03	Reserve
+0	S04	Reserve
+0	T01	Blinker Schinken
+0	T02	Blinker Geflügel
+0	T03	Störung Vacuumpumpe
+0	T04	Vacuumpumpe Min
+0	T05	Kühlaggregat Min
+0	T06	Beatmungsventil Min
+0	T07	Blinker Störung
